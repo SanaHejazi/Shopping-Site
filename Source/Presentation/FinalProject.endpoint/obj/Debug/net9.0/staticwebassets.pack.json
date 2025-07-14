@@ -1,0 +1,837 @@
+{
+  "Files": [
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/obj/Debug/net9.0/scopedcss/projectbundle/FinalProject.endpoint.bundle.scp.css",
+      "PackagePath": "staticwebassets/FinalProject.endpoint.521aqgk7o2.bundle.scp.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/AdminLTE.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/AdminLTE.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/adminlte.css.map",
+      "PackagePath": "staticwebassets/AdminTemplate/css/adminlte.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/adminlte.min.css.map",
+      "PackagePath": "staticwebassets/AdminTemplate/css/adminlte.min.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/alt/AdminLTE-bootstrap-social.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/alt/AdminLTE-bootstrap-social.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/alt/AdminLTE-bootstrap-social.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/alt/AdminLTE-bootstrap-social.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/alt/AdminLTE-fullcalendar.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/alt/AdminLTE-fullcalendar.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/alt/AdminLTE-fullcalendar.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/alt/AdminLTE-fullcalendar.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/alt/AdminLTE-select2.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/alt/AdminLTE-select2.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/alt/AdminLTE-select2.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/alt/AdminLTE-select2.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/alt/AdminLTE-without-plugins.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/alt/AdminLTE-without-plugins.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/alt/AdminLTE-without-plugins.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/alt/AdminLTE-without-plugins.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/bootstrap-theme.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/bootstrap-theme.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/jquery-ui.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/jquery-ui.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/persian-datepicker-0.4.5.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/persian-datepicker-0.4.5.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/rtl.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/rtl.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/_all-skins.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/_all-skins.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/_all-skins.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/_all-skins.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-black-light.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-black-light.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-black-light.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-black-light.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-black.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-black.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-black.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-black.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-blue-light.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-blue-light.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-blue-light.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-blue-light.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-blue.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-blue.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-blue.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-blue.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-green-light.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-green-light.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-green-light.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-green-light.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-green.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-green.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-green.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-green.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-purple-light.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-purple-light.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-purple-light.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-purple-light.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-purple.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-purple.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-purple.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-purple.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-red-light.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-red-light.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-red-light.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-red-light.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-red.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-red.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-red.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-red.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-yellow-light.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-yellow-light.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-yellow-light.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-yellow-light.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-yellow.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-yellow.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/css/skins/skin-yellow.min.css",
+      "PackagePath": "staticwebassets/AdminTemplate/css/skins/skin-yellow.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/AdminTemplate/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/fonts/Vazir-Bold-FD-WOL.eot",
+      "PackagePath": "staticwebassets/AdminTemplate/fonts/Vazir-Bold-FD-WOL.eot"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/fonts/Vazir-Bold-FD-WOL.ttf",
+      "PackagePath": "staticwebassets/AdminTemplate/fonts/Vazir-Bold-FD-WOL.ttf"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/fonts/Vazir-Bold-FD-WOL.woff",
+      "PackagePath": "staticwebassets/AdminTemplate/fonts/Vazir-Bold-FD-WOL.woff"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/fonts/Vazir-FD-WOL.eot",
+      "PackagePath": "staticwebassets/AdminTemplate/fonts/Vazir-FD-WOL.eot"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/fonts/Vazir-FD-WOL.ttf",
+      "PackagePath": "staticwebassets/AdminTemplate/fonts/Vazir-FD-WOL.ttf"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/fonts/Vazir-FD-WOL.woff",
+      "PackagePath": "staticwebassets/AdminTemplate/fonts/Vazir-FD-WOL.woff"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/AdminTemplate/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/AdminTemplate/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/AdminTemplate/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/AdminTemplate/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/AdminTemplate/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/avatar.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/avatar.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/avatar04.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/avatar04.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/avatar2.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/avatar2.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/avatar3.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/avatar3.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/avatar5.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/avatar5.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/boxed-bg.jpg",
+      "PackagePath": "staticwebassets/AdminTemplate/img/boxed-bg.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/boxed-bg.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/boxed-bg.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/credit/american-express.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/credit/american-express.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/credit/cirrus.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/credit/cirrus.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/credit/mastercard.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/credit/mastercard.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/credit/mestro.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/credit/mestro.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/credit/paypal.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/credit/paypal.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/credit/paypal2.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/credit/paypal2.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/credit/visa.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/credit/visa.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/default-50x50.gif",
+      "PackagePath": "staticwebassets/AdminTemplate/img/default-50x50.gif"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/icons.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/icons.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/photo1.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/photo1.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/photo2.png",
+      "PackagePath": "staticwebassets/AdminTemplate/img/photo2.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/photo3.jpg",
+      "PackagePath": "staticwebassets/AdminTemplate/img/photo3.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/photo4.jpg",
+      "PackagePath": "staticwebassets/AdminTemplate/img/photo4.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/user1-128x128.jpg",
+      "PackagePath": "staticwebassets/AdminTemplate/img/user1-128x128.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/user2-160x160.jpg",
+      "PackagePath": "staticwebassets/AdminTemplate/img/user2-160x160.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/user3-128x128.jpg",
+      "PackagePath": "staticwebassets/AdminTemplate/img/user3-128x128.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/user4-128x128.jpg",
+      "PackagePath": "staticwebassets/AdminTemplate/img/user4-128x128.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/user5-128x128.jpg",
+      "PackagePath": "staticwebassets/AdminTemplate/img/user5-128x128.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/user6-128x128.jpg",
+      "PackagePath": "staticwebassets/AdminTemplate/img/user6-128x128.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/user7-128x128.jpg",
+      "PackagePath": "staticwebassets/AdminTemplate/img/user7-128x128.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/img/user8-128x128.jpg",
+      "PackagePath": "staticwebassets/AdminTemplate/img/user8-128x128.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/js/adminlte.js",
+      "PackagePath": "staticwebassets/AdminTemplate/js/adminlte.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/js/adminlte.min.js",
+      "PackagePath": "staticwebassets/AdminTemplate/js/adminlte.min.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/js/demo.js",
+      "PackagePath": "staticwebassets/AdminTemplate/js/demo.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/js/pages/dashboard.js",
+      "PackagePath": "staticwebassets/AdminTemplate/js/pages/dashboard.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/js/pages/dashboard2.js",
+      "PackagePath": "staticwebassets/AdminTemplate/js/pages/dashboard2.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/js/persian-date-0.1.8.min.js",
+      "PackagePath": "staticwebassets/AdminTemplate/js/persian-date-0.1.8.min.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/js/persian-date.js",
+      "PackagePath": "staticwebassets/AdminTemplate/js/persian-date.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/AdminTemplate/js/persian-datepicker-0.4.5.min.js",
+      "PackagePath": "staticwebassets/AdminTemplate/js/persian-datepicker-0.4.5.min.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/css/style.css",
+      "PackagePath": "staticwebassets/SiteTemplate/css/style.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/cat-1.jpg",
+      "PackagePath": "staticwebassets/SiteTemplate/images/cat-1.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/cat-2.jpg",
+      "PackagePath": "staticwebassets/SiteTemplate/images/cat-2.jpg"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/counter-img.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/counter-img.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/f-1-1.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/f-1-1.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/f-1-2.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/f-1-2.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/f-1-3.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/f-1-3.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/f-2-1.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/f-2-1.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/f-2-2.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/f-2-2.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/f-2-3.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/f-2-3.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/f-3-1.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/f-3-1.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/f-3-2.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/f-3-2.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/f-3-3.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/f-3-3.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/home-img.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/home-img.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/p-1.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/p-1.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/p-10.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/p-10.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/p-2.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/p-2.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/p-3.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/p-3.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/p-4.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/p-4.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/p-5.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/p-5.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/p-6.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/p-6.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/p-7.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/p-7.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/p-8.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/p-8.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/p-9.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/p-9.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/payment.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/payment.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/pic-1.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/pic-1.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/pic-2.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/pic-2.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/pic-3.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/pic-3.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/pic-4.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/pic-4.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/slider-2.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/slider-2.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/images/user-img.png",
+      "PackagePath": "staticwebassets/SiteTemplate/images/user-img.png"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/js/script.js",
+      "PackagePath": "staticwebassets/SiteTemplate/js/script.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb.eot",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb.eot"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb.ttf"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb.woff",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb.woff"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb.woff2"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/SiteTemplate/webfonts/IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets/SiteTemplate/webfonts/IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Id": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.FinalProject.endpoint.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.FinalProject.endpoint.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.FinalProject.endpoint.props",
+      "PackagePath": "build\\FinalProject.endpoint.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.FinalProject.endpoint.props",
+      "PackagePath": "buildMultiTargeting\\FinalProject.endpoint.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.FinalProject.endpoint.props",
+      "PackagePath": "buildTransitive\\FinalProject.endpoint.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

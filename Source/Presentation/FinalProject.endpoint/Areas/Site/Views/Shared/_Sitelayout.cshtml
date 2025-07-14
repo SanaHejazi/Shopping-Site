@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>complete responsive e-commerce website design tutorial</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="~/SiteTemplate/css/style.css">
+
+</head>
+<body>
+    
+<!-- header section starts  -->
+
+<header>
+
+    <a href="#" class="logo">فشیون<span>.</span></a>
+
+    <form action="">
+        <input type="search" id="search-bar">
+        <label for="search-bar" class="fas fa-search"></label>
+    </form>
+
+    <div class="icons">
+        <div id="menu-bar" class="fas fa-bars"></div>
+        <div id="theme-toggler" class="fas fa-moon"></div>
+        <a href="#" class="fas fa-heart"></a>
+        <a href="#" class="fas fa-shopping-cart"></a>
+        <a href="#" class="fas fa-user"></a>
+    </div>
+
+</header>
+
+<!-- header section ends -->
+
+<!-- navbar section  -->
+
+<nav class="navbar">
+
+    <div class="user">
+        <img src="~/SiteTemplate/images/user-img.png" alt="">
+        <h3>حسین امانی</h3>
+    </div>
+
+    <div class="links">
+        <a href="#home">خانه</a>
+        <a href="#products">محصولات</a>
+        <a href="#featured">ویژه</a>
+        <a href="#deal">معامله</a>
+        <a href="#review">نظرات</a>
+    </div>
+
+    <div id="close" class="fas fa-times"></div>
+
+</nav>
+
+<!-- home section starts  -->
+
+<section class="home" id="home">
+
+    <div class="content">
+        <span>پیشنهاد ویژه</span>
+        <h3>فروش تا 50٪ تخفیف</h3>
+        <a href="#" class="btn">الان خرید کن</a>
+    </div>
+
+    <div class="image">
+        <img src="~/SiteTemplate/images/home-img.png" alt="">
+    </div>
+
+</section>
+
+<section class="body" id="home">
+@RenderBody()
+</section>
+
+<section class="footer">
+
+<div class="footer-container">
+
+    <div class="box-container">
+
+        <div class="box">
+            <h3>لینک های سریع</h3>
+            <a href="#">خانه</a>
+            <a href="#">محصولات</a>
+            <a href="#">ویژه</a>
+            <a href="#">معامله</a>
+            <a href="#">نظرات</a>
+        </div>
+
+        <div class="box">
+            <h3>پیوندهای اضافی</h3>
+            <a href="#">حساب من</a>
+            <a href="#">مورد علاقه من</a>
+            <a href="#">سفارش من</a>
+            <a href="#">سبد خرید</a>
+        </div>
+
+        <div class="box">
+            <h3>لینک های دانلود</h3>
+            <a href="#">windows store</a>
+            <a href="#">app store</a>
+            <a href="#">google store</a>
+        </div>
+
+        <div class="box">
+            <h3>با ما تماس بگیرید</h3>
+            <a href="#">+123-456-7890</a>
+            <a href="#">example@gmail.com</a>
+            <a href="#">ایران,خراسان رضوی</a>
+            <img src="~/SiteTemplate/images/payment.png" alt="">
+        </div>
+
+    </div>
+
+    <div class="credit">طراحی توسط <a href="https://netcopy.ir" target="_blank"> نت کپی </a> | کلیه حقوق محفوظ است </div>
+
+</div>
+
+</section>
+
+<!-- footer section ends -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+<!-- custom js file link -->
+<script src="~/SiteTemplate/js/script.js"></script>
+
+</body>
+</html>
