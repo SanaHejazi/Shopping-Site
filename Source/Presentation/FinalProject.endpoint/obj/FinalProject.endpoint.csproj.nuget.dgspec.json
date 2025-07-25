@@ -4,14 +4,83 @@
     "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/FinalProject.endpoint.csproj": {}
   },
   "projects": {
-    "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/FinalProject.endpoint.csproj": {
+    "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/FinalProject.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/FinalProject.endpoint.csproj",
-        "projectName": "FinalProject.endpoint",
-        "projectPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/FinalProject.endpoint.csproj",
+        "projectUniqueName": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/FinalProject.Application.csproj",
+        "projectName": "FinalProject.Application",
+        "projectPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/FinalProject.Application.csproj",
         "packagesPath": "/home/sana/.nuget/packages/",
-        "outputPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/obj/",
+        "outputPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/FinalProject.Domain.csproj": {
+                "projectPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/FinalProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/sana/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/FinalProject.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/FinalProject.Domain.csproj",
+        "projectName": "FinalProject.Domain",
+        "projectPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/FinalProject.Domain.csproj",
+        "packagesPath": "/home/sana/.nuget/packages/",
+        "outputPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sana/.nuget/NuGet/NuGet.Config"
@@ -43,6 +112,160 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/sana/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Infrasructure/FinalProject.Persistance/FinalProject.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Infrasructure/FinalProject.Persistance/FinalProject.Persistance.csproj",
+        "projectName": "FinalProject.Persistance",
+        "projectPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Infrasructure/FinalProject.Persistance/FinalProject.Persistance.csproj",
+        "packagesPath": "/home/sana/.nuget/packages/",
+        "outputPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Infrasructure/FinalProject.Persistance/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/FinalProject.Application.csproj": {
+                "projectPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/FinalProject.Application.csproj"
+              },
+              "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/FinalProject.Domain.csproj": {
+                "projectPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/FinalProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/sana/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/FinalProject.endpoint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/FinalProject.endpoint.csproj",
+        "projectName": "FinalProject.endpoint",
+        "projectPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/FinalProject.endpoint.csproj",
+        "packagesPath": "/home/sana/.nuget/packages/",
+        "outputPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Presentation/FinalProject.endpoint/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/FinalProject.Application.csproj": {
+                "projectPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/FinalProject.Application.csproj"
+              },
+              "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Infrasructure/FinalProject.Persistance/FinalProject.Persistance.csproj": {
+                "projectPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Infrasructure/FinalProject.Persistance/FinalProject.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

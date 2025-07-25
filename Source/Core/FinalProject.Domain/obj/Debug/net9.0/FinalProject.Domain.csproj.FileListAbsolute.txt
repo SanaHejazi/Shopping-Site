@@ -1,0 +1,12 @@
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/bin/Debug/net9.0/FinalProject.Domain.deps.json
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/bin/Debug/net9.0/FinalProject.Domain.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/bin/Debug/net9.0/FinalProject.Domain.pdb
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/obj/Debug/net9.0/FinalProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/obj/Debug/net9.0/FinalProject.Domain.AssemblyInfoInputs.cache
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/obj/Debug/net9.0/FinalProject.Domain.AssemblyInfo.cs
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/obj/Debug/net9.0/FinalProject.Domain.csproj.CoreCompileInputs.cache
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/obj/Debug/net9.0/FinalProject.Domain.sourcelink.json
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/obj/Debug/net9.0/FinalProject.Domain.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/obj/Debug/net9.0/refint/FinalProject.Domain.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/obj/Debug/net9.0/FinalProject.Domain.pdb
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/obj/Debug/net9.0/ref/FinalProject.Domain.dll

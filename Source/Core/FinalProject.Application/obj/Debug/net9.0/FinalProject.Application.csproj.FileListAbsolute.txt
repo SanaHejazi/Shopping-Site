@@ -1,0 +1,16 @@
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/FinalProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/FinalProject.Application.AssemblyInfoInputs.cache
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/FinalProject.Application.AssemblyInfo.cs
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/FinalProject.Application.csproj.CoreCompileInputs.cache
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/FinalProject.Application.sourcelink.json
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/FinalProject.Application.csproj.AssemblyReference.cache
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/bin/Debug/net9.0/FinalProject.Application.deps.json
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/bin/Debug/net9.0/FinalProject.Application.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/bin/Debug/net9.0/FinalProject.Application.pdb
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/bin/Debug/net9.0/FinalProject.Domain.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/bin/Debug/net9.0/FinalProject.Domain.pdb
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/FinalPro.D05BF7A5.Up2Date
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/FinalProject.Application.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/refint/FinalProject.Application.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/FinalProject.Application.pdb
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/ref/FinalProject.Application.dll

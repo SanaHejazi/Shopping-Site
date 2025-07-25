@@ -1,21 +1,32 @@
+using FinalProject.Application.Interface.Context;
+using FinalProject.Persistance.Context;
+using Microsoft.EntityFrameworkCore;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// اتصال به دیتابیس SQL Server
+string connectionString = @"Server=localhost,1433;Database=FinalProject;User Id=sa;Password=StrongP@ss2025;Encrypt=False;TrustServerCertificate=True;";
+
+builder.Services.AddDbContext<DataBaseContext>(options =>
+    options.UseSqlServer(connectionString,
+        b => b.MigrationsAssembly("FinalProject.endpoint")));
+
+
 builder.Services.AddControllersWithViews();
+// تا اینحا
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// پیکربندی pipeline
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
 app.UseHttpsRedirection();
 app.UseRouting();
-
 app.UseAuthorization();
 
 app.MapStaticAssets();
