@@ -14,5 +14,9 @@
     <ProjectReference Include="..\FinalProject.Domain\FinalProject.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+  <ProjectReference Include="..\..\Common\FinalProject.Common\FinalProject.Common.csproj" />
+</ItemGroup>
+
 </Project>
 

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using FinalProjec.Application.Services.Queries.GetUsers;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
@@ -12,15 +13,22 @@ namespace FinalProject.endpoint.Area.Admin.Controllers
     public class UserController : Controller
     {
         private readonly ILogger<UserController> _logger;
+        private readonly IGetUserService _GetUserService;
 
-        public UserController(ILogger<UserController> logger)
+        public UserController(ILogger<UserController> logger, IGetUserService getUserService)
         {
             _logger = logger;
+            _GetUserService = getUserService;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(string searchkey,int page =1)
         {
-            return View();
+
+            return View(_GetUserService.Execute(new RequestClassDto
+            {
+                Page = page,
+                SearchKey=searchkey,
+            }));
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

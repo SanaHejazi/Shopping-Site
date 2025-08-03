@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// اتصال به دیتابیس SQL Server
+//Connecting to SQL Server
 string connectionString = @"Server=localhost,1433;Database=FinalProject;User Id=sa;Password=StrongP@ss2025;Encrypt=False;TrustServerCertificate=True;";
 
 builder.Services.AddDbContext<DataBaseContext>(options =>
@@ -14,11 +14,9 @@ builder.Services.AddDbContext<DataBaseContext>(options =>
 
 
 builder.Services.AddControllersWithViews();
-// تا اینحا
 
 var app = builder.Build();
 
-// پیکربندی pipeline
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");

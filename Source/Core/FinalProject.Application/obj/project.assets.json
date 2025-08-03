@@ -193,6 +193,16 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+      "FinalProject.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/FinalProject.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FinalProject.Common.dll": {}
+        }
+      },
       "FinalProject.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -541,6 +551,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "FinalProject.Common/1.0.0": {
+      "type": "project",
+      "path": "../../Common/FinalProject.Common/FinalProject.Common.csproj",
+      "msbuildProject": "../../Common/FinalProject.Common/FinalProject.Common.csproj"
+    },
     "FinalProject.Domain/1.0.0": {
       "type": "project",
       "path": "../FinalProject.Domain/FinalProject.Domain.csproj",
@@ -549,6 +564,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "FinalProject.Common >= 1.0.0",
       "FinalProject.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.7"
     ]
@@ -578,6 +594,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/FinalProject.Common.csproj": {
+              "projectPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/FinalProject.Common.csproj"
+            },
             "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/FinalProject.Domain.csproj": {
               "projectPath": "/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Domain/FinalProject.Domain.csproj"
             }

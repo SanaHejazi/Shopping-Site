@@ -1597,6 +1597,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "FinalProject.Common": "1.0.0",
           "FinalProject.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.7"
         },
@@ -1605,6 +1606,16 @@
         },
         "runtime": {
           "bin/placeholder/FinalProject.Application.dll": {}
+        }
+      },
+      "FinalProject.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/FinalProject.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FinalProject.Common.dll": {}
         }
       },
       "FinalProject.Domain/1.0.0": {
@@ -4714,6 +4725,11 @@
       "type": "project",
       "path": "../../Core/FinalProject.Application/FinalProject.Application.csproj",
       "msbuildProject": "../../Core/FinalProject.Application/FinalProject.Application.csproj"
+    },
+    "FinalProject.Common/1.0.0": {
+      "type": "project",
+      "path": "../../Common/FinalProject.Common/FinalProject.Common.csproj",
+      "msbuildProject": "../../Common/FinalProject.Common/FinalProject.Common.csproj"
     },
     "FinalProject.Domain/1.0.0": {
       "type": "project",

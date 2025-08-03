@@ -1,0 +1,12 @@
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/bin/Debug/net9.0/FinalProject.Common.deps.json
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/bin/Debug/net9.0/FinalProject.Common.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/bin/Debug/net9.0/FinalProject.Common.pdb
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/obj/Debug/net9.0/FinalProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/obj/Debug/net9.0/FinalProject.Common.AssemblyInfoInputs.cache
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/obj/Debug/net9.0/FinalProject.Common.AssemblyInfo.cs
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/obj/Debug/net9.0/FinalProject.Common.csproj.CoreCompileInputs.cache
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/obj/Debug/net9.0/FinalProject.Common.sourcelink.json
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/obj/Debug/net9.0/FinalProject.Common.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/obj/Debug/net9.0/refint/FinalProject.Common.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/obj/Debug/net9.0/FinalProject.Common.pdb
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Common/FinalProject.Common/obj/Debug/net9.0/ref/FinalProject.Common.dll

@@ -15,3 +15,4 @@ namespace FinalProject.Domain.Entities.Users
         public long RoleId { get; set; }
     }
 }
+ 
