@@ -130,11 +130,20 @@
       },
       "FinalProject.Application/1.0.0": {
         "dependencies": {
+          "FinalProject.Common": "1.0.0",
           "FinalProject.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.7"
         },
         "runtime": {
           "FinalProject.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FinalProject.Common/1.0.0": {
+        "runtime": {
+          "FinalProject.Common.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -234,6 +243,11 @@
       "hashPath": "microsoft.extensions.primitives.9.0.7.nupkg.sha512"
     },
     "FinalProject.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinalProject.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "FinalProject.Application/1.0.0": {
         "dependencies": {
+          "FinalProject.Common": "1.0.0",
           "FinalProject.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.7"
         },
@@ -127,6 +128,14 @@
           }
         }
       },
+      "FinalProject.Common/1.0.0": {
+        "runtime": {
+          "FinalProject.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "FinalProject.Domain/1.0.0": {
         "runtime": {
           "FinalProject.Domain.dll": {
@@ -219,6 +228,11 @@
       "sha512": "sha512-ti/zD9BuuO50IqlvhWQs9GHxkCmoph5BHjGiWKdg2t6Or8XoyAfRJiKag+uvd/fpASnNklfsB01WpZ4fhAe0VQ==",
       "path": "microsoft.extensions.primitives/9.0.7",
       "hashPath": "microsoft.extensions.primitives.9.0.7.nupkg.sha512"
+    },
+    "FinalProject.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "FinalProject.Domain/1.0.0": {
       "type": "project",

@@ -16,3 +16,5 @@
 /home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Infrasructure/FinalProject.Persistance/obj/Debug/net9.0/refint/FinalProject.Persistance.dll
 /home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Infrasructure/FinalProject.Persistance/obj/Debug/net9.0/FinalProject.Persistance.pdb
 /home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Infrasructure/FinalProject.Persistance/obj/Debug/net9.0/ref/FinalProject.Persistance.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Infrasructure/FinalProject.Persistance/bin/Debug/net9.0/FinalProject.Common.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Infrasructure/FinalProject.Persistance/bin/Debug/net9.0/FinalProject.Common.pdb

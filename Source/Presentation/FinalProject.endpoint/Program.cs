@@ -1,18 +1,22 @@
 using FinalProject.Application.Interface.Context;
 using FinalProject.Persistance.Context;
 using Microsoft.EntityFrameworkCore;
-
+using FinalProject.Application.Services.Queries.GetUsers;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//Connecting to SQL Server
+// اتصال به SQL Server
 string connectionString = @"Server=localhost,1433;Database=FinalProject;User Id=sa;Password=StrongP@ss2025;Encrypt=False;TrustServerCertificate=True;";
 
 builder.Services.AddDbContext<DataBaseContext>(options =>
     options.UseSqlServer(connectionString,
         b => b.MigrationsAssembly("FinalProject.endpoint")));
 
+// 🔧 این خط برای ثبت وابستگی IDatabaseContext
+builder.Services.AddScoped<IDatabaseContext, DataBaseContext>();
 
+// سرویس‌ها
+builder.Services.AddScoped<IGetUserService, GetUserService>();
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

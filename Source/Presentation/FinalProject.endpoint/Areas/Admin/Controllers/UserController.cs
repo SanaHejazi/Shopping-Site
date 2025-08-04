@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using FinalProjec.Application.Services.Queries.GetUsers;
+using FinalProject.Application.Services.Queries.GetUsers;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 

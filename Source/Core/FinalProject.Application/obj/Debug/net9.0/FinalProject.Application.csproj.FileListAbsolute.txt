@@ -14,3 +14,5 @@
 /home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/refint/FinalProject.Application.dll
 /home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/FinalProject.Application.pdb
 /home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/obj/Debug/net9.0/ref/FinalProject.Application.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/bin/Debug/net9.0/FinalProject.Common.dll
+/home/sana/Documents/Coding/C#/Asp.Net Core/LearningCamp/Net9/FinalProject/Source/Core/FinalProject.Application/bin/Debug/net9.0/FinalProject.Common.pdb

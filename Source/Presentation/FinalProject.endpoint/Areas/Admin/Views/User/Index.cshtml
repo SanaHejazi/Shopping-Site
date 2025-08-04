@@ -1,78 +1,37 @@
+@using FinalProject.Application.Services.Queries.GetUsers
+@model ResulGetUsertDto
 
-@using FinalProjec.Application.Services.Queries.GetUsers;
-@model ResulGetUsertDto;
 @{
-        Layout = "~/Areas/Admin/Views/Shared/_Adminlayout.cshtml";
+    Layout = "~/Areas/Admin/Views/Shared/_Adminlayout.cshtml";
 }
 
-<div class="col-sm-12"><table id="example2" class="table table-bordered table-hover dataTable" role="grid" aria-describedby="example2_info">
-                <thead>
-                <tr role="row"><th class="sorting_asc" tabindex="0" aria-controls="example2" rowspan="1" colspan="1" aria-sort="ascending" aria-label="موتور رندر: activate to sort column descending">موتور رندر</th><th class="sorting" tabindex="0" aria-controls="example2" rowspan="1" colspan="1" aria-label="مرورگر: activate to sort column ascending">مرورگر</th><th class="sorting" tabindex="0" aria-controls="example2" rowspan="1" colspan="1" aria-label="سیستم عامل: activate to sort column ascending">سیستم عامل</th><th class="sorting" tabindex="0" aria-controls="example2" rowspan="1" colspan="1" aria-label="ورژن: activate to sort column ascending">ورژن</th><th class="sorting" tabindex="0" aria-controls="example2" rowspan="1" colspan="1" aria-label="امتیاز: activate to sort column ascending">امتیاز</th></tr>
-                </thead>
-                <tbody>
-                        
-                  <tr role="row" class="odd">
-                  <td class="sorting_1">Gecko</td>
-                  <td>Firefox 1.0</td>
-                  <td>Win 98+ / OSX.2+</td>
-                  <td>1.7</td>
-                  <td>A</td>
-                </tr><tr role="row" class="even">
-                  <td class="sorting_1">Gecko</td>
-                  <td>Firefox 1.5</td>
-                  <td>Win 98+ / OSX.2+</td>
-                  <td>1.8</td>
-                  <td>A</td>
-                </tr><tr role="row" class="odd">
-                  <td class="sorting_1">Gecko</td>
-                  <td>Firefox 2.0</td>
-                  <td>Win 98+ / OSX.2+</td>
-                  <td>1.8</td>
-                  <td>A</td>
-                </tr><tr role="row" class="even">
-                  <td class="sorting_1">Gecko</td>
-                  <td>Firefox 3.0</td>
-                  <td>Win 2k+ / OSX.3+</td>
-                  <td>1.9</td>
-                  <td>A</td>
-                </tr><tr role="row" class="odd">
-                  <td class="sorting_1">Gecko</td>
-                  <td>Camino 1.0</td>
-                  <td>OSX.2+</td>
-                  <td>1.8</td>
-                  <td>A</td>
-                </tr><tr role="row" class="even">
-                  <td class="sorting_1">Gecko</td>
-                  <td>Camino 1.5</td>
-                  <td>OSX.3+</td>
-                  <td>1.8</td>
-                  <td>A</td>
-                </tr><tr role="row" class="odd">
-                  <td class="sorting_1">Gecko</td>
-                  <td>Netscape 7.2</td>
-                  <td>Win 95+ / Mac OS 8.6-9.2</td>
-                  <td>1.7</td>
-                  <td>A</td>
-                </tr><tr role="row" class="even">
-                  <td class="sorting_1">Gecko</td>
-                  <td>Netscape Browser 8</td>
-                  <td>Win 98SE+</td>
-                  <td>1.7</td>
-                  <td>A</td>
-                </tr><tr role="row" class="odd">
-                  <td class="sorting_1">Gecko</td>
-                  <td>Netscape Navigator 9</td>
-                  <td>Win 98+ / OSX.2+</td>
-                  <td>1.8</td>
-                  <td>A</td>
-                </tr><tr role="row" class="even">
-                  <td class="sorting_1">Gecko</td>
-                  <td>Mozilla 1.0</td>
-                  <td>Win 95+ / OSX.1+</td>
-                  <td>1</td>
-                  <td>A</td>
-                </tr></tbody>
-                <tfoot>
-                <tr><th rowspan="1" colspan="1">موتور رندر</th><th rowspan="1" colspan="1">مرورگر</th><th rowspan="1" colspan="1">سیستم عامل</th><th rowspan="1" colspan="1">ورژن</th><th rowspan="1" colspan="1">امتیاز</th></tr>
-                </tfoot>
-              </table></div>
+
+    <div class="col-sm-12">
+        <table id="example2" class="table table-bordered table-hover dataTable" role="grid" aria-describedby="example2_info">
+            <thead class="table-responsive table">
+                <tr role="row">
+                    <th class="sorting" tabindex="0" aria-controls="example2" rowspan="1" colspan="1" aria-label="مرورگر: activate to sort column ascending">آیدی</th>
+                    <th class="sorting" tabindex="0" aria-controls="example2" rowspan="1" colspan="1" aria-label="سیستم عامل: activate to sort column ascending">نام و نام خانوادگی</th>
+                    <th class="sorting" tabindex="0" aria-controls="example2" rowspan="1" colspan="1" aria-label="ورژن: activate to sort column ascending">ایمیل</th>
+                    <th class="sorting" tabindex="0" aria-controls="example2" rowspan="1" colspan="1" aria-label="امتیاز: activate to sort column ascending">عملیات</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Users)
+                {
+                    <tr role="row" class="odd">
+                        <td  class="sorting_1">@item.Id</td>
+                        <td  class="sorting_1">@item.Fullname</td>
+                        <td  class="sorting_1">@item.Email</td>
+                        <td>
+                            <div class="d-flex justify-content-center gap-2 flex-wrap">
+                                <button class="btn btn-primary btn-sm">ویرایش</button>
+                                <button class="btn btn-danger btn-sm">حذف</button>
+                                <button class="btn btn-warning btn-sm text-white">غیرفعال</button>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>

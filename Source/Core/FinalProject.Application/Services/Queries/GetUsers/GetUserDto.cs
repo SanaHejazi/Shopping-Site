@@ -1,4 +1,4 @@
-namespace FinalProjec.Application.Services.Queries.GetUsers
+namespace FinalProject.Application.Services.Queries.GetUsers
 {
     public class GetUserDto
     {
